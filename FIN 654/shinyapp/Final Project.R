@@ -148,7 +148,7 @@ portolioGMVP <- function(Sigma)
 }
 
 ### Set working directory ####
-setwd("/Users/gml/Desktop/shinyapp")
+#setwd("FIN 654/shinyapp/")
 
 ###Gather Data###
 #tickers <- c("IHG", "ACCYY", "DLAKY","ICAGY")
